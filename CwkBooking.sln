@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CwkBooking.Domain", "CwkBooking.Domain\CwkBooking.Domain.csproj", "{49A78DE9-D4FB-45BF-A115-2CC6AD27D4F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CwkBooking.Dal", "CwkBooking.Dal\CwkBooking.Dal.csproj", "{3DC572E2-20A3-4D7A-B214-E9C5440630E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CwkBooking.Services", "CwkBooking.Services\CwkBooking.Services.csproj", "{0CF0758F-AB7D-404B-8169-77A67D2C3F45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CwkBooking.Api", "CwkBooking.Api\CwkBooking.Api.csproj", "{21667457-6CD9-46D6-ABA0-CA133107B6EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49A78DE9-D4FB-45BF-A115-2CC6AD27D4F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A78DE9-D4FB-45BF-A115-2CC6AD27D4F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A78DE9-D4FB-45BF-A115-2CC6AD27D4F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A78DE9-D4FB-45BF-A115-2CC6AD27D4F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DC572E2-20A3-4D7A-B214-E9C5440630E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC572E2-20A3-4D7A-B214-E9C5440630E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC572E2-20A3-4D7A-B214-E9C5440630E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC572E2-20A3-4D7A-B214-E9C5440630E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CF0758F-AB7D-404B-8169-77A67D2C3F45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CF0758F-AB7D-404B-8169-77A67D2C3F45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CF0758F-AB7D-404B-8169-77A67D2C3F45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CF0758F-AB7D-404B-8169-77A67D2C3F45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21667457-6CD9-46D6-ABA0-CA133107B6EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21667457-6CD9-46D6-ABA0-CA133107B6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21667457-6CD9-46D6-ABA0-CA133107B6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21667457-6CD9-46D6-ABA0-CA133107B6EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {829B172A-E194-4905-9BB2-A9726C13AB52}
+	EndGlobalSection
+EndGlobal
